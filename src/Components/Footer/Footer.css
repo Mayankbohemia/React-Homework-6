@@ -1,0 +1,11 @@
+.main{
+    background-color: rgb(59, 54, 54);
+    color: rgb(190, 185, 185);
+}
+.footer__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 3.24rem;
+    gap: 2rem;
+}
